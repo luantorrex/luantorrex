@@ -1,3 +1,5 @@
+![capa github](https://github.com/luantorrex/luantorrex/blob/main/images/'Luan Torres.png')  
+
 <center>
 <table>
     <tr>
