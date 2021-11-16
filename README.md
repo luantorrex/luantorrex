@@ -1,5 +1,3 @@
-![capa github](https://github.com/luantorrex/luantorrex/blob/main/images/luan_torres.gif)
-
 <center>
 <table>
     <tr>
