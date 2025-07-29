@@ -6,6 +6,11 @@
 </a>
 
 <br/><br/>
+
+### 🔥 Current Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luantorrex&theme=vue-dark&hide_border=false" width="700px" />
+
 ### 🚀 GitHub Stats
 
 <table>
@@ -16,9 +21,5 @@
 </table>
 
 <br/>
-
-### 🔥 Current Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luantorrex&theme=vue-dark&hide_border=false" width="700px" />
 
 </div>
