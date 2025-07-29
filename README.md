@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: white; padding: 20px; border-radius: 10px;">
 
 ### 🖥️ Recent Projects
 <a href="https://github.com/luantorrex/simple-to-do-list" target="_blank">
