@@ -8,6 +8,12 @@
   <img src="https://img.shields.io/badge/Expense%20Tracker%20-%20[TypeScript]-%23121011?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a" />
 </a>
 
+### 🌍 Community Contribution
+
+Reached 43K+ developers on Stack Overflow through Q&A focused on software and data engineering.
+
+<img src="https://raw.githubusercontent.com/luantorrex/luantorrex/refs/heads/main/images/Captura%20de%20tela%202025-07-29%20165416.png" width="700px" />
+
 ### 🔥 Current Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=luantorrex&theme=vue-dark&hide_border=false" width="700px" />
