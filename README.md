@@ -2,7 +2,10 @@
 
 ### 🖥️ Recent Projects
 <a href="https://github.com/luantorrex/simple-to-do-list" target="_blank">
-  <img src="https://img.shields.io/badge/Simple%20To--Do--List-%23121011?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Simple%20To--Do%20List-%23121011?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a" />
+</a>
+<a href="https://github.com/luantorrex/expense-tracker" target="_blank">
+  <img src="https://img.shields.io/badge/Expense%20Tracker-%23121011?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a" />
 </a>
 
 ### 🔥 Current Streak
