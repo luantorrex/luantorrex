@@ -7,6 +7,10 @@
 <a href="https://github.com/luantorrex/expense-tracker" target="_blank">
   <img src="https://img.shields.io/badge/Expense%20Tracker%20-%20[TypeScript]-%23121011?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a" />
 </a>
+</a>
+<a href="https://github.com/luantorrex/zettelkasten" target="_blank">
+  <img src="https://img.shields.io/badge/ZETTELKASTEN%20-%20[Python+MongoDB]-%23121011?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a" />
+</a>
 
 ### 🌍 Community Contribution
 
