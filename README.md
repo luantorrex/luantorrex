@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🖥️ Recent Projects
+### 🖥️ 2025 Projects
 <a href="https://github.com/luantorrex/simple-to-do-list" target="_blank">
   <img src="https://img.shields.io/badge/Simple%20To--Do%20List%20-%20[JavaScript]-%23121011?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a" />
 </a>
