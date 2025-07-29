@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/badge/Simple%20To--Do--List-%23121011?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a" />
 </a>
 
-<br/><br/>
-
 ### 🔥 Current Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=luantorrex&theme=vue-dark&hide_border=false" width="700px" />
