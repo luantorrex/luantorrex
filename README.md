@@ -9,7 +9,7 @@
 </a>
 </a>
 <a href="https://github.com/luantorrex/zettelkasten" target="_blank">
-  <img src="https://img.shields.io/badge/ZETTELKASTEN%20[PRIVATE]%20-%20Python%20&&%20MongoDB-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=00684A" />
+  <img src="https://img.shields.io/badge/ZETTELKASTEN%20-%20Python%20&&%20MongoDB-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=00684A" />
 </a>
 
 ### 🌍 Community Contribution
