@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/ZETTELKASTEN%20-%20Python%20&&%20MongoDB-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=00684A" />
 </a>
 <a href="https://github.com/luantorrex/infinite-rpg" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/INFINITE--RPG%20-%20NodeJS-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=6cc24a" alt="INFINITE-RPG - NodeJS" />
+  <img src="https://img.shields.io/badge/INFINITE--RPG%20-%20Node.JS-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=6cc24a" alt="INFINITE-RPG - NodeJS" />
 </a>
 
 ### 🌍 Community Contribution
