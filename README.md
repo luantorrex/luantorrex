@@ -49,11 +49,12 @@ Reached 43K+ developers on Stack Overflow through Q&A focused on software and da
 
 <br/>
 
+### ⚙️Most Used Languages
 <p align="center">
   <img
     width="400px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luantorrex&layout=compact&theme=vue-dark&hide_border=true&langs_count=8"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luantorrex&theme=vue"
+    alt="Repositories per Language"
   />
 </p>
 
