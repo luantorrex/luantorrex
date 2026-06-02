@@ -38,7 +38,7 @@
 
 ### 🌍 Community Contribution
 
-Reached thousands of developers on Stack Overflow through Q&A focused on software and data engineering.
+Reached thousands of developers worldwide since 2020 through English-language Q&A contributions focused on software and data engineering.
 <p align="center">
   <a href="https://stackoverflow.com/users/10487253/ltx" target="_blank">
     <img src="./assets/stackoverflow-impact.svg" alt="Stack Overflow Impact" />
