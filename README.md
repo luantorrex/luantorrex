@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/INFINITE--RPG%20-%20Node.JS-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=6cc24a" alt="INFINITE-RPG - NodeJS" />
 </a>
 
-### 2026 Projects
+### 🖥️ 2026 Projects
 
 <a target="_blank"> <img src="https://img.shields.io/badge/VIDEO%20CREATOR%20(USING%20AI)%20-%20Node.JS-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=6cc24a" alt="VIDEO CREATOR (USING AI) - NodeJS" /> </a> 
 <a target="_blank"> <img src="https://img.shields.io/badge/MY%20PROJECTS%20LIST%20-%20Node.JS-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=6cc24a" alt="PROJECTS LIST - NodeJS" /> </a> 
