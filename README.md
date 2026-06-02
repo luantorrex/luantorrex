@@ -36,14 +36,6 @@ Reached 43K+ developers on Stack Overflow through Q&A focused on software and da
 <p align="center">
   <img
     width="400px"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=luantorrex&theme=vue-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="400px"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luantorrex&theme=vue"
     alt="GitHub Profile Summary"
   />
