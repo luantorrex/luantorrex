@@ -6,21 +6,15 @@
   <a href="https://github.com/luantorrex/simple-to-do-list" target="_blank">
     <img src="https://img.shields.io/badge/Simple%20To--Do%20List%20-%20JavaScript-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=f0db4f" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/luantorrex/expense-tracker" target="_blank">
     <img src="https://img.shields.io/badge/Expense%20Tracker%20-%20TypeScript-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=007acc" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/luantorrex/zettelkasten" target="_blank">
     <img src="https://img.shields.io/badge/ZETTELKASTEN%20-%20Python%20&&%20MongoDB-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=00684A" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/luantorrex/infinite-rpg" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/INFINITE--RPG%20-%20Node.JS-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=6cc24a" alt="INFINITE-RPG - NodeJS" />
   </a>
@@ -32,15 +26,11 @@
   <a target="_blank">
     <img src="https://img.shields.io/badge/VIDEO%20CREATOR%20(USING%20AI)%20-%20Node.JS-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=6cc24a" alt="VIDEO CREATOR (USING AI) - NodeJS" />
   </a>
-</p>
 
-<p align="center">
   <a target="_blank">
     <img src="https://img.shields.io/badge/MY%20PROJECTS%20LIST%20-%20Node.JS-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=6cc24a" alt="PROJECTS LIST - NodeJS" />
   </a>
-</p>
 
-<p align="center">
   <a target="_blank">
     <img src="https://img.shields.io/badge/COOKING%20RECIPES%20-%20Node.JS-%23121011?style=for-the-badge&logo=github&labelColor=C0C0C0&logoColor=black&color=6cc24a" alt="COOKING RECIPES - NodeJS" />
   </a>
