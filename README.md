@@ -34,10 +34,22 @@ Reached 43K+ developers on Stack Overflow through Q&A focused on software and da
 ### 🚀 GitHub Stats
 
 <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luantorrex&hide=html&layout=compact&theme=vue-dark&" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=luantorrex&theme=vue-dark&"/></td>
-    </tr> 
+  <tr>
+    <td>
+      <img
+        width="400px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luantorrex&hide=html&layout=compact&theme=vue-dark&cache_seconds=1800"
+        alt="Top Languages"
+      />
+    </td>
+    <td>
+      <img
+        width="495px"
+        src="https://github-readme-stats.vercel.app/api?username=luantorrex&show_icons=true&theme=vue-dark&cache_seconds=1800"
+        alt="GitHub Stats"
+      />
+    </td>
+  </tr>
 </table>
 
 <br/>
