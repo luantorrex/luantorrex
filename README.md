@@ -29,7 +29,13 @@ Reached 43K+ developers on Stack Overflow through Q&A focused on software and da
 
 ### 🔥 Current Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luantorrex&theme=vue-dark&hide_border=false" width="700px" />
+<p align="center">
+  <img
+    width="400px"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=luantorrex&theme=vue-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ### 🚀 GitHub Stats
 
