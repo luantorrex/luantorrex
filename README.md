@@ -22,10 +22,12 @@
 
 ### 🌍 Community Contribution
 
-Reached 43K+ developers on Stack Overflow through Q&A focused on software and data engineering.  
-*I promise I’ll automate this to update itself in the future 😅*
-
-<img src="https://raw.githubusercontent.com/luantorrex/luantorrex/refs/heads/main/images/Captura%20de%20tela%202025-07-29%20165416.png" width="700px" />
+Reached thousands of developers on Stack Overflow through Q&A focused on software and data engineering.
+<p align="center">
+  <a href="https://stackoverflow.com/users/10487253/ltx" target="_blank">
+    <img src="./assets/stackoverflow-impact.svg" alt="Stack Overflow Impact" />
+  </a>
+</p>
 
 ### 🔥 Current Streak
 
